@@ -15,6 +15,12 @@
 
 ![输入图片说明](https://gitee.com/xiaoming23/wx-xiaotao/raw/main/public/%E9%9B%B6%E9%A3%9F.jpg)
 
+## 准备
+```
+<script type="text/javascript" src="https://webapi.amap.com/maps?v=1.4.15&key=***********&plugin=AMap.CircleEditor"></script>
+替换高德地图key
+```
+
 ## Project setup
 ```
 npm install
